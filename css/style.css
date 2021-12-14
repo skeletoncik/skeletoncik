@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto" sans-serif;
+}
+.header-content {
+  text-align: center;
+  color: rgba(101, 99, 99, 1);
+  background-color: rgb(34, 28, 61);
+  align-items: center;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: #ffffff;
+  padding-left: 300px;
+}
+
+.header-img {
+  width: 200px;
+  border-radius: 15rem;
+}
+.header-content-name {
+  font-family: Tinos;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 92px;
+}
+.header-content-contact {
+  margin-top: 30px;
+}
+h2 {
+  margin-top: 20px;
+  color: white;
+  font-weight: bold;
+}
+.header-content-developer {
+  color: rgba(196, 196, 196, 1);
+  font-weight: bold;
+}
+.img-icon {
+  width: 40px;
+}
+.box {
+  font-size: 18px;
+}
+.img-icon {
+  display: flex;
+  position: absolute;
+}
+.header-img-about {
+  width: 50px;
+}
+.header-text-p {
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: rgba(196, 196, 196, 1);
+}
+h3 {
+  color: ;
+}
